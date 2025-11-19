@@ -1,0 +1,963 @@
+[
+    {
+        "id": "pin_1759667957069",
+        "title": "Mescit",
+        "sub": "B Katı",
+        "desc": "Mescide gitmek için araba garajının girişindeki merdivenlerden aşağı ininiz.",
+        "type": "mescit",
+        "coord": [
+            2102.365826717035,
+            1757.7165055912428
+        ],
+        "createdAt": "2025-10-05T12:39:17.069Z",
+        "updatedAt": "2025-10-09T02:50:43.767Z",
+        "labelSide": "left"
+    },
+    {
+        "id": "pin_1759669115505",
+        "title": "Mescit",
+        "sub": "Isı Merkezi Mescidi",
+        "desc": "",
+        "type": "mescit",
+        "coord": [
+            2747.708726959369,
+            1549.4555526459944
+        ],
+        "createdAt": "2025-10-05T12:58:35.505Z"
+    },
+    {
+        "id": "pin_1759670136718",
+        "title": "Kongre ve Kültür Merkezi",
+        "sub": "Kalabalık dersler, etkinlikler, sunumlar, kongreler...",
+        "desc": "Salonların rezervasyon durumunu görmek için: https://cankwp.cankaya.edu.tr/",
+        "type": "kongre_ve_kultur",
+        "coord": [
+            1432.5852732070312,
+            1491.0651312627444
+        ],
+        "createdAt": "2025-10-05T13:15:36.718Z",
+        "updatedAt": "2025-10-21T21:58:15.359Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759670949941",
+        "title": "K Blok",
+        "sub": "İktisadi ve İdari Bilimler Fakültesi",
+        "desc": "Bilgi almak için: https://iibf.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            1983.8491152385477,
+            1431.3644475798608
+        ],
+        "createdAt": "2025-10-05T13:29:09.941Z",
+        "updatedAt": "2025-10-07T23:16:53.451Z"
+    },
+    {
+        "id": "pin_1759670965461",
+        "title": "L Blok",
+        "sub": "Mühendislik Fakültesi",
+        "desc": "Bilgi almak için: https://muhf.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            1903.2861295534763,
+            1578.6249792772023
+        ],
+        "createdAt": "2025-10-05T13:29:25.461Z",
+        "updatedAt": "2025-10-07T23:17:49.404Z"
+    },
+    {
+        "id": "pin_1759670976053",
+        "title": "M Blok",
+        "sub": "Mühendislik Fakültesi",
+        "desc": "B katında Arabica Kitchen bulunmaktadır. (https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php)\nBilgi almak için: https://muhf.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            1908.3063749522494,
+            1680.9423616902902
+        ],
+        "createdAt": "2025-10-05T13:29:36.053Z",
+        "updatedAt": "2025-10-07T23:19:18.682Z"
+    },
+    {
+        "id": "pin_1759670989005",
+        "title": "N Blok",
+        "sub": "Mühendislik Fakültesi",
+        "desc": "C katında Kimya Laboratuvarları bulunmaktadır.\nBilgi almak için: https://muhf.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            1857.8648616598157,
+            1773.2192533058324
+        ],
+        "createdAt": "2025-10-05T13:29:49.005Z",
+        "updatedAt": "2025-10-07T23:20:44.683Z"
+    },
+    {
+        "id": "pin_1759671012492",
+        "title": "Ortak Alan",
+        "sub": "H Blok",
+        "desc": "3. Kat: Fizik 1-2 laboratuvarları, bilgisayar laboratuvarları ve yemekhane burada bulunmaktadır.\n \n2. Kat: Ders çalışma alanları vardır. \n\n1. Kat: Amfi 1-6, Mavi Amfi ve Kırmızı Amfi, Simitçi Dünyası, Kırtasiye, Çankaya Store, VakıfBank ve Ziraat Bankası ATM'leri buradadır. Bu katta L, M, P, R bloklarına geçiş yapılabilmektedir.\n\nA Katı: Birçok derslik bulunmaktadır. L, M, P, R bloklarına geçiş yapılabilmektedir.  \n\nB Katı: Giriş/Çıkış\n\nC Katı: Mescit ve Makine Mühendisliği Atölyeleri buradadır.",
+        "type": "ortak_alan",
+        "coord": [
+            2093.4288645403617,
+            1664.6870406117205
+        ],
+        "createdAt": "2025-10-05T13:30:12.492Z",
+        "updatedAt": "2025-11-16T23:58:37.115Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671060677",
+        "title": "R Blok",
+        "sub": "Fen-Edebiyat Fakültesi",
+        "desc": "Bilgi almak için: https://fef.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            2241.7941050135987,
+            1623.090009952049
+        ],
+        "createdAt": "2025-10-05T13:31:00.677Z",
+        "updatedAt": "2025-10-07T23:33:51.651Z"
+    },
+    {
+        "id": "pin_1759671068828",
+        "title": "P Blok",
+        "sub": "Meslek Yüksek Okulu & Ortak Dersler Bölümü",
+        "desc": "Daha fazla bilgi almak için;\nMeslek Yüksekokulu: https://myo.cankaya.edu.tr/\nOrtak Dersler Bölümü: https://odb.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            2196.1337778152347,
+            1719.6699690522537
+        ],
+        "createdAt": "2025-10-05T13:31:08.828Z",
+        "updatedAt": "2025-10-07T23:35:28.091Z"
+    },
+    {
+        "id": "pin_1759671090189",
+        "title": "Hukuk Fakültesi",
+        "sub": "A Blok",
+        "desc": "Bilgi almak için: https://hukuk.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            2417.7417532753575,
+            1658.4707870481636
+        ],
+        "createdAt": "2025-10-05T13:31:30.189Z",
+        "updatedAt": "2025-10-09T02:46:35.631Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671107276",
+        "title": "Mimarlık Fakültesi",
+        "sub": "B Blok",
+        "desc": "Bilgi almak için: https://mimarlik.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            2588.1910375289362,
+            1683.3329547373253
+        ],
+        "createdAt": "2025-10-05T13:31:47.276Z",
+        "updatedAt": "2025-10-09T02:46:12.400Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671120140",
+        "title": "Isı Merkezi",
+        "sub": "",
+        "desc": "",
+        "type": "isi_merkezi",
+        "coord": [
+            2772.02764284591,
+            1614.961993592131
+        ],
+        "createdAt": "2025-10-05T13:32:00.140Z"
+    },
+    {
+        "id": "pin_1759671135093",
+        "title": "Kütüphane",
+        "sub": "",
+        "desc": "Bireysel Çalışma Alanları, Grup Çalışma Odaları, Yazıcı, Tablet, Bilgisayar gibi olanaklara sahiptir. Kütüphanenin -1. katı daima açıktır. \n\nDaha fazla bilgi almak için: https://kutuphane.cankaya.edu.tr/",
+        "type": "kutuphane",
+        "coord": [
+            1663.2941535986356,
+            1841.6653834038962
+        ],
+        "createdAt": "2025-10-05T13:32:15.093Z",
+        "updatedAt": "2025-10-07T23:09:24.115Z"
+    },
+    {
+        "id": "pin_1759671154204",
+        "title": "Öğrenci İşleri",
+        "sub": "İletişim: oim@cankaya.edu.tr",
+        "desc": "",
+        "type": "ogrenci_isleri",
+        "coord": [
+            1556.4346443961815,
+            1658.5459560010333
+        ],
+        "createdAt": "2025-10-05T13:32:34.204Z",
+        "updatedAt": "2025-10-09T02:47:12.640Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671162684",
+        "title": "Rektörlük",
+        "sub": "",
+        "desc": "Bilgi almak için: https://www.cankaya.edu.tr/idari_birimler/rektorluk.php",
+        "type": "resmi",
+        "coord": [
+            1506.471249713155,
+            1744.607305694285
+        ],
+        "createdAt": "2025-10-05T13:32:42.684Z",
+        "updatedAt": "2025-10-07T23:04:02.449Z"
+    },
+    {
+        "id": "pin_1759671220764",
+        "title": "Spor Merkezi",
+        "sub": "Futbol, basketbol, voleybol, fitness, tenis, bilardo ve daha fazlası...",
+        "desc": "Spor Merkezi hakkında daha fazla bilgi almak için: https://spor.cankaya.edu.tr/dokumanlar/spor-merkezi-randevu/\nSpor Merkezi'ne randevu almak için (En geç 1 gün öncesinden randevu alınması gerekir.): https://randevu.cankaya.edu.tr/",
+        "type": "spor",
+        "coord": [
+            1104.3734992019072,
+            1113.4907412771072
+        ],
+        "createdAt": "2025-10-05T13:33:40.764Z",
+        "updatedAt": "2025-10-07T23:01:47.204Z"
+    },
+    {
+        "id": "pin_1759671232037",
+        "title": "Kız Öğrenci Yurdu",
+        "sub": "",
+        "desc": "Öğrenci yurtları hakkında bilgi almak için: https://aday.cankaya.edu.tr/yurtlar.php",
+        "type": "ogrenci_yurdu",
+        "coord": [
+            1246.3747261957722,
+            1024.5606799274137
+        ],
+        "createdAt": "2025-10-05T13:33:52.037Z",
+        "updatedAt": "2025-11-16T23:49:10.210Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671249776",
+        "title": "Erkek Öğrenci Yurdu",
+        "sub": "",
+        "desc": "Öğrenci yurtları hakkında bilgi almak için: https://aday.cankaya.edu.tr/yurtlar.php",
+        "type": "ogrenci_yurdu",
+        "coord": [
+            1187.566137238717,
+            754.9017842218923
+        ],
+        "createdAt": "2025-10-05T13:34:09.776Z",
+        "updatedAt": "2025-11-16T23:49:05.577Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671285686",
+        "title": "Sağlık Merkezi ve PDR Merkezi",
+        "sub": "A ve B Katı",
+        "desc": "PDRM Randevusu için: https://randevu.cankaya.edu.tr/\nSağlık Merkezi ve PDR Merkezi hakkında daha fazla bilgi almak için: https://pdb.cankaya.edu.tr/saglik-merkezi/",
+        "type": "saglik",
+        "coord": [
+            2132.5365706910234,
+            1449.4237521797318
+        ],
+        "createdAt": "2025-10-05T13:34:45.686Z",
+        "updatedAt": "2025-10-09T02:47:41.040Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671303797",
+        "title": "Yemekhane",
+        "sub": "3. Kat",
+        "desc": "Yemek yerleri hakkında daha fazla bilgi almak ve yemekhane menüsü için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            2125.4007293464397,
+            1388.596231350989
+        ],
+        "createdAt": "2025-10-05T13:35:03.797Z",
+        "updatedAt": "2025-10-07T22:53:06.323Z"
+    },
+    {
+        "id": "pin_1759671325965",
+        "title": "Yeşim Cafe",
+        "sub": "1. Kat. (İşletmesi kapalıdır.)",
+        "desc": "İşletmesi kapalıdır. Ancak oturma yerleri kullanılabilir.\nYemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            2138.548991105131,
+            1322.1377446434226
+        ],
+        "createdAt": "2025-10-05T13:35:25.965Z",
+        "updatedAt": "2025-10-07T22:52:28.347Z"
+    },
+    {
+        "id": "pin_1759671353101",
+        "title": "Arabica Kitchen",
+        "sub": "B Katı",
+        "desc": "Yemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            1771.118871314026,
+            1678.8714325991405
+        ],
+        "createdAt": "2025-10-05T13:35:53.101Z",
+        "updatedAt": "2025-10-09T02:48:09.767Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759671400348",
+        "title": "Güvenlik",
+        "sub": "",
+        "desc": "",
+        "type": "guvenlik",
+        "coord": [
+            768.9221159235246,
+            633.7389843690653
+        ],
+        "createdAt": "2025-10-05T13:36:40.348Z"
+    },
+    {
+        "id": "pin_1759671426652",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            874.6460408191923,
+            1079.829801470933
+        ],
+        "createdAt": "2025-10-05T13:37:06.652Z"
+    },
+    {
+        "id": "pin_1759671439428",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            914.9276391697872,
+            1401.4815549233704
+        ],
+        "createdAt": "2025-10-05T13:37:19.428Z"
+    },
+    {
+        "id": "pin_1759671480195",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            952.6793702715324,
+            1662.4096403657163
+        ],
+        "createdAt": "2025-10-05T13:38:00.195Z"
+    },
+    {
+        "id": "pin_1759671487531",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            1038.9581477082033,
+            2045.6398726747843
+        ],
+        "createdAt": "2025-10-05T13:38:07.531Z"
+    },
+    {
+        "id": "pin_1759671497300",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            1280.647104763418,
+            2133.6136968056635
+        ],
+        "createdAt": "2025-10-05T13:38:17.300Z"
+    },
+    {
+        "id": "pin_1759671505732",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            1763.46088752593,
+            2026.228120386158
+        ],
+        "createdAt": "2025-10-05T13:38:25.732Z"
+    },
+    {
+        "id": "pin_1759671514340",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            2315.1610625461253,
+            1860.4391683214687
+        ],
+        "createdAt": "2025-10-05T13:38:34.340Z"
+    },
+    {
+        "id": "pin_1759671525364",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            2275.6440906299263,
+            1945.5918690957296
+        ],
+        "createdAt": "2025-10-05T13:38:45.364Z"
+    },
+    {
+        "id": "pin_1759671535956",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            2633.515869771031,
+            1879.133382388163
+        ],
+        "createdAt": "2025-10-05T13:38:55.956Z"
+    },
+    {
+        "id": "pin_1759671556429",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            1149.989517510452,
+            1259.1284028045766
+        ],
+        "createdAt": "2025-10-05T13:39:16.429Z"
+    },
+    {
+        "id": "pin_1759671564908",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            1391.2003559562597,
+            1256.7378097575418
+        ],
+        "createdAt": "2025-10-05T13:39:24.909Z"
+    },
+    {
+        "id": "pin_1759671571349",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            1551.6091494122927,
+            1390.1329017820817
+        ],
+        "createdAt": "2025-10-05T13:39:31.349Z"
+    },
+    {
+        "id": "pin_1759671582005",
+        "title": "",
+        "sub": "",
+        "desc": "",
+        "type": "park_yeri",
+        "coord": [
+            2225.7640471138993,
+            1385.256876359837
+        ],
+        "createdAt": "2025-10-05T13:39:42.005Z"
+    },
+    {
+        "id": "pin_1759674674915",
+        "title": "Garage Coffee",
+        "sub": "-1. Kat",
+        "desc": "Hukuk B08-B12 Amfileri burada bulunur.\nYemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            2410.5262808896723,
+            1708.9941376529625
+        ],
+        "createdAt": "2025-10-05T14:31:14.915Z",
+        "updatedAt": "2025-10-07T22:50:45.227Z"
+    },
+    {
+        "id": "pin_1759674785187",
+        "title": "Fesleğen Kafeterya",
+        "sub": "1. Kat. (İşletmesi kapalıdır.)",
+        "desc": "Yemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            1120.425810051709,
+            1079.940457028907
+        ],
+        "createdAt": "2025-10-05T14:33:05.187Z",
+        "updatedAt": "2025-10-09T02:53:44.328Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759733443551",
+        "title": "Kırmızı Salon",
+        "sub": "1. Kat / H-102",
+        "desc": "Kalabalık dersler, etkinlikler ve sunumlar yapılmaktadır.\nSalonların rezervasyon durumunu görmek için: https://cankwp.cankaya.edu.tr/",
+        "type": "kirmizi_amfi",
+        "coord": [
+            2128.1229938222205,
+            1482.9028614023791
+        ],
+        "createdAt": "2025-10-06T06:50:43.551Z",
+        "updatedAt": "2025-11-15T22:49:06.759Z"
+    },
+    {
+        "id": "pin_1759734249642",
+        "title": "Mavi Salon",
+        "sub": "1. Kat / Amfi 1",
+        "desc": "Kalabalık dersler, etkinlikler ve sunumlar yapılmaktadır.\nSalonların rezervasyon durumunu görmek için: https://cankwp.cankaya.edu.tr/",
+        "type": "mavi_amfi",
+        "coord": [
+            2100.687595847718,
+            1480.1746469063448
+        ],
+        "createdAt": "2025-10-06T07:04:09.642Z",
+        "updatedAt": "2025-11-15T22:49:12.495Z"
+    },
+    {
+        "id": "pin_1759734821025",
+        "title": "Sıhhiye Ringi",
+        "sub": "Kalkış Saatleri: 10.20, 11.20, 12.20, 13.20, 14.20, 15.20, 16.20",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri, bu durak için geçerlidir.",
+        "type": "ring_servisi",
+        "coord": [
+            2011.3082582348347,
+            1780.9363089276842
+        ],
+        "createdAt": "2025-10-06T07:13:41.025Z",
+        "updatedAt": "2025-11-16T23:48:34.235Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759734863978",
+        "title": "Balgat Kampüsü Ringi",
+        "sub": "Kalkış Saatleri: 10.20, 11.20, 12.20, 13.20, 14.20, 15.20, 16.20",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri, bu durak için geçerlidir.",
+        "type": "ring_servisi",
+        "coord": [
+            2069.7379480939985,
+            1756.0508223691113
+        ],
+        "createdAt": "2025-10-06T07:14:23.978Z",
+        "updatedAt": "2025-11-16T23:48:44.522Z",
+        "labelSide": "left"
+    },
+    {
+        "id": "pin_1759735629361",
+        "title": "Gölbaşı",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            895.6047252894857,
+            648.1500900324598
+        ],
+        "createdAt": "2025-10-06T07:27:09.361Z",
+        "updatedAt": "2025-11-16T23:48:21.882Z"
+    },
+    {
+        "id": "pin_1759735701993",
+        "title": "Sincan",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            899.9028807687694,
+            684.2958537438766
+        ],
+        "createdAt": "2025-10-06T07:28:21.993Z",
+        "updatedAt": "2025-11-16T23:48:17.444Z"
+    },
+    {
+        "id": "pin_1759735744720",
+        "title": "Etimesgut - Bağlıca",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            907.7297251029352,
+            726.60651344561
+        ],
+        "createdAt": "2025-10-06T07:29:04.720Z",
+        "updatedAt": "2025-11-16T23:48:12.442Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759735757130",
+        "title": "Zırhlı Birlikler",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            916.6417435852209,
+            771.2260252380994
+        ],
+        "createdAt": "2025-10-06T07:29:17.130Z",
+        "updatedAt": "2025-11-16T23:48:08.226Z"
+    },
+    {
+        "id": "pin_1759735767842",
+        "title": "Cevizlidere",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            924.0896485406561,
+            817.0911205960372
+        ],
+        "createdAt": "2025-10-06T07:29:27.842Z",
+        "updatedAt": "2025-11-16T23:48:04.521Z"
+    },
+    {
+        "id": "pin_1759735773001",
+        "title": "Dikmen - Öveçler",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            930.7804236085221,
+            859.8399974124934
+        ],
+        "createdAt": "2025-10-06T07:29:33.001Z",
+        "updatedAt": "2025-11-16T23:48:00.555Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759735781617",
+        "title": "Dikmen",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            938.993542196821,
+            901.5465179809726
+        ],
+        "createdAt": "2025-10-06T07:29:41.617Z",
+        "updatedAt": "2025-11-16T23:47:56.378Z"
+    },
+    {
+        "id": "pin_1759736078978",
+        "title": "Konutkent - Ümitköy",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            943.8617914948595,
+            938.5394711268169
+        ],
+        "createdAt": "2025-10-06T07:34:38.978Z",
+        "updatedAt": "2025-11-16T23:47:52.923Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759736121731",
+        "title": "Ayrancı - Çankaya - İncek",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            948.7031982826666,
+            983.6779925398803
+        ],
+        "createdAt": "2025-10-06T07:35:21.731Z",
+        "updatedAt": "2025-11-16T23:47:50.131Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759736135209",
+        "title": "Batıkent - Çakırlar",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            953.2854061832986,
+            1027.4635347014748
+        ],
+        "createdAt": "2025-10-06T07:35:35.210Z",
+        "updatedAt": "2025-11-16T23:47:45.842Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759736151386",
+        "title": "G.O.P - Esat",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            958.8054368116818,
+            1075.9905657139846
+        ],
+        "createdAt": "2025-10-06T07:35:51.386Z",
+        "updatedAt": "2025-11-16T23:47:43.218Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759736164977",
+        "title": "Abidinpaşa",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            965.8075142378693,
+            1137.761659914617
+        ],
+        "createdAt": "2025-10-06T07:36:04.978Z",
+        "updatedAt": "2025-11-16T23:47:40.441Z"
+    },
+    {
+        "id": "pin_1759736181026",
+        "title": "Demetevler - Yenimahalle",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            973.9957908832444,
+            1203.407256123005
+        ],
+        "createdAt": "2025-10-06T07:36:21.026Z",
+        "updatedAt": "2025-11-16T23:47:37.457Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759736365530",
+        "title": "Yaşamkent - Türkkonut",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            991.296963399697,
+            1263.0919999026298
+        ],
+        "createdAt": "2025-10-06T07:39:25.530Z",
+        "labelSide": "right",
+        "updatedAt": "2025-11-16T23:47:34.498Z"
+    },
+    {
+        "id": "pin_1759736400057",
+        "title": "Mamak",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1017.029436292333,
+            1324.1712841619044
+        ],
+        "createdAt": "2025-10-06T07:40:00.057Z",
+        "updatedAt": "2025-11-16T23:47:29.250Z"
+    },
+    {
+        "id": "pin_1759736431986",
+        "title": "Balgat Kampüsü",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1103.3420591330544,
+            1352.0380770896186
+        ],
+        "createdAt": "2025-10-06T07:40:31.986Z",
+        "labelSide": "right",
+        "updatedAt": "2025-11-16T23:47:26.051Z"
+    },
+    {
+        "id": "pin_1759736443521",
+        "title": "Sıhhiye",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1195.3798914438928,
+            1355.3849073554672
+        ],
+        "createdAt": "2025-10-06T07:40:43.521Z",
+        "updatedAt": "2025-11-16T23:47:20.707Z"
+    },
+    {
+        "id": "pin_1759736469465",
+        "title": "Etlik - Keçiören",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1027.250177192595,
+            1402.2720620581426
+        ],
+        "createdAt": "2025-10-06T07:41:09.465Z",
+        "labelSide": "right",
+        "updatedAt": "2025-11-16T23:47:17.594Z"
+    },
+    {
+        "id": "pin_1759736495868",
+        "title": "Aydınlıkevler",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1016.4925084809383,
+            1510.8049863935212
+        ],
+        "createdAt": "2025-10-06T07:41:35.868Z",
+        "updatedAt": "2025-11-16T23:47:14.490Z"
+    },
+    {
+        "id": "pin_1759736516969",
+        "title": "Devlet Mah. 3. Etap",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1038.5610104629664,
+            1729.945336162808
+        ],
+        "createdAt": "2025-10-06T07:41:56.969Z",
+        "labelSide": "right",
+        "updatedAt": "2025-11-16T23:47:09.804Z"
+    },
+    {
+        "id": "pin_1759736549018",
+        "title": "Eryaman 1-2",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1048.8405605652158,
+            1803.0974834020717
+        ],
+        "createdAt": "2025-10-06T07:42:29.019Z",
+        "updatedAt": "2025-11-16T23:47:06.580Z"
+    },
+    {
+        "id": "pin_1759736574465",
+        "title": "Eryaman - Eryaman Evleri",
+        "sub": "Kalkış Saati: 17.25",
+        "desc": "Servis saatleri ve güzergâhları için: \nhttps://www.cankaya.edu.tr/duyuru/servis.php\nKalkış saatleri bu durak için geçerlidir.",
+        "type": "semt_servisi",
+        "coord": [
+            1061.5107037145,
+            1877.2058678601493
+        ],
+        "createdAt": "2025-10-06T07:42:54.465Z",
+        "labelSide": "right",
+        "updatedAt": "2025-11-16T23:47:02.193Z"
+    },
+    {
+        "id": "pin_1759777000110",
+        "title": "Coffee Break",
+        "sub": "Zemin Kat",
+        "desc": "Öğrenciler tarafından \"sarı\" diye bilinir.\nYemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            1135.994665623781,
+            1735.428642307012
+        ],
+        "createdAt": "2025-10-06T18:56:40.110Z",
+        "updatedAt": "2025-10-07T22:51:15.404Z"
+    },
+    {
+        "id": "pin_1759778129083",
+        "title": "Ahşap ve Seramik Atölyesi",
+        "sub": "Dışarıdaki merdivenlerden inince zemin katta.",
+        "desc": "",
+        "type": "atolye",
+        "coord": [
+            1734.4537387542503,
+            1707.149619671573
+        ],
+        "createdAt": "2025-10-06T19:15:29.083Z",
+        "updatedAt": "2025-10-09T02:49:34.903Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759880668795",
+        "title": "Arabica Coffee House",
+        "sub": "Kütüphane Yanı",
+        "desc": "Yemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            1687.1060406616778,
+            1732.675785909267
+        ],
+        "createdAt": "2025-10-07T23:44:28.795Z",
+        "updatedAt": "2025-10-09T02:49:43.337Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759881853371",
+        "title": "Simitçi Dünyası",
+        "sub": "1. Kat",
+        "desc": "Yemek yerleri hakkında daha fazla bilgi almak için: https://www.cankaya.edu.tr/kampuste_yasam/yiyecek.php",
+        "type": "yemek",
+        "coord": [
+            2103.080956913543,
+            1820.1045041697423
+        ],
+        "createdAt": "2025-10-08T00:04:13.371Z",
+        "updatedAt": "2025-10-08T00:14:52.575Z"
+    },
+    {
+        "id": "pin_1759882399418",
+        "title": "ATM",
+        "sub": "1. Kat",
+        "desc": "Ziraat Bankası ATM & VakıfBank ATM",
+        "type": "atm",
+        "coord": [
+            2110.109315127424,
+            1770.4849772094126
+        ],
+        "createdAt": "2025-10-08T00:13:19.418Z",
+        "updatedAt": "2025-10-21T21:57:31.343Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1759882568429",
+        "title": "Kırtasiye & Fotokopici",
+        "sub": "1. Kat",
+        "desc": "",
+        "type": "kirtasiye",
+        "coord": [
+            2111.5225241610347,
+            1750.2289810609925
+        ],
+        "createdAt": "2025-10-08T00:16:08.429Z",
+        "updatedAt": "2025-10-21T22:13:42.534Z",
+        "labelSide": "right"
+    },
+    {
+        "id": "pin_1762560807606",
+        "title": "Hazırlık Okulu",
+        "sub": "Hazırlık Eğitimi ve Modern Diller",
+        "desc": "Z katında Coffee Break bulunmaktadır.\n\nBilgi almak için;\nYabancı Dil Bölümü: https://ydb.cankaya.edu.tr/\nHazırlık Eğitimi: https://cups.cankaya.edu.tr/\nModern Diller: https://aeu.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            1145.2828887777237,
+            1678.1485233986878
+        ],
+        "createdAt": "2025-11-08T00:13:27.606Z",
+        "updatedAt": "2025-11-08T00:14:01.004Z"
+    },
+    {
+        "id": "pin_1762628980078",
+        "title": "Hazırlık Ek Bina",
+        "sub": "Hazırlık Eğitimi ve Modern Diller",
+        "desc": "Bilgi almak için;\nYabancı Dil Bölümü: https://ydb.cankaya.edu.tr/\nHazırlık Eğitimi: https://cups.cankaya.edu.tr/\nModern Diller: https://aeu.cankaya.edu.tr/",
+        "type": "fakulte",
+        "coord": [
+            1122.4262871784929,
+            1502.2629991590034
+        ],
+        "createdAt": "2025-11-08T19:09:40.078Z"
+    }
+]
